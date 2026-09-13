@@ -1,13 +1,14 @@
-# ☁️ Cloud IT Risk Assessment — BiomedCloud
+# Cloud IT Risk Assessment — BiomedCloud
 
-> A portfolio project demonstrating foundational knowledge in IT Risk, IT Controls,
-> Cloud Security, and Technology Auditing.
+> Portfolio project focused on IT Risk, IT General Controls (ITGC), Cloud Security and Technology Audit.
 
-## 🎯 About this project
+## Project Overview
 
-This repository simulates an IT risk assessment for a fictional healthcare company,
-**BiomedCloud**, which relies on cloud infrastructure to store and process sensitive
-patient data.
+BiomedCloud is a fictional healthcare company that uses cloud infrastructure to store and process sensitive patient information.
+
+This project simulates an IT risk assessment of the company's technology environment. The assessment identifies relevant risks, evaluates their potential impact, maps risks to controls, and proposes remediation measures.
+
+The project was designed to demonstrate practical understanding of risk assessment and control concepts in a cloud environment.
 
 The purpose of this project is to apply, in a practical way, core concepts of:
 - IT Risk Management
@@ -15,11 +16,6 @@ The purpose of this project is to apply, in a practical way, core concepts of:
 - Cloud Security
 - Technology Auditing
 
-> ⚠️ **Disclaimer:** This is a study/portfolio project. BiomedCloud is a fictional
-> company and does not represent any real professional experience. The goal is to
-> demonstrate analytical reasoning and foundational understanding of risk and
-> control concepts, built as part of a career transition into Technology, IT Risk,
-> and Audit.
 
 ## 📁 Repository structure
 
@@ -36,16 +32,23 @@ The purpose of this project is to apply, in a practical way, core concepts of:
 | `diagrams/` | Visual diagrams (risk matrix, architecture overview) |
 | `documentation/` | References and frameworks used |
 
-## 🧠 Reference frameworks
+## Reference frameworks
 
 - COBIT 2019
 - ISO/IEC 27001
 - NIST Cybersecurity Framework
 - CIS Controls
 
-## 👩‍💻 About the author
+## Project Context
 
-[Your name], transitioning from a background in Biomedicine to Technology, with a
-focus on IT Risk & Compliance, Cloud Security, and Technology Audit.
+This is a fictional portfolio project created for educational and professional development purposes.
 
-[LinkedIn] | [Other relevant links]
+BiomedCloud does not represent a real organization, and the assessment does not describe professional experience or a real-world client engagement.
+
+## Author
+
+Jessica Picarelli 
+
+Transitioning from Biomedicine to Technology, with a focus on IT Risk, Cloud Security and Technology Audit.
+
+[[LinkedIn](https://www.linkedin.com/in/jessicapicarelli/)] 
