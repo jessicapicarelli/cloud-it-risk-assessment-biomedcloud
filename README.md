@@ -10,7 +10,9 @@ This project simulates an IT risk assessment of the company's technology environ
 
 The project was designed to demonstrate practical understanding of risk assessment and control concepts in a cloud environment.
 
-The purpose of this project is to apply, in a practical way, core concepts of:
+
+**The purpose of this project is to apply, in a practical way, core concepts of:**
+
 - IT Risk Management
 - IT General Controls (ITGC)
 - Cloud Security
